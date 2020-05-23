@@ -1,4 +1,4 @@
-<img src="js-logo.png" style="width:100px">
+![JS](js-logo.png)
 
 # Learn Javascript
 
