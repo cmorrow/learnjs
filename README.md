@@ -1,4 +1,4 @@
-![JS](js-logo.png)
+![JS](js.png)
 
 # Learn Javascript
 
